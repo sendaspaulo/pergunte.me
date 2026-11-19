@@ -1,0 +1,6 @@
+interface:
+  display_name: "pergunte.me"
+  short_description: "Crie prompts de software com uma pergunta por vez"
+  default_prompt: "Me ajude a montar um prompt para um projeto de software."
+policy:
+  allow_implicit_invocation: true
